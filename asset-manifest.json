@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/michelleKodego/try_1/static/js/main.5d02fcae.js",
+    "static/media/two.jpg": "/michelleKodego/try_1/static/media/two.f1641616a1ec7bdabc91.jpg",
+    "static/media/one.jpg": "/michelleKodego/try_1/static/media/one.3ee5cbfb5443fae93bf2.jpg",
+    "static/media/three.jpg": "/michelleKodego/try_1/static/media/three.67fd671aef45b4ec5cab.jpg",
+    "static/media/c.jpg": "/michelleKodego/try_1/static/media/c.a8ba5cc1689347ca427c.jpg",
+    "static/media/b.jpg": "/michelleKodego/try_1/static/media/b.065cf87d801da0aa9099.jpg",
+    "static/media/a.jpg": "/michelleKodego/try_1/static/media/a.c9cac06b24126f3d952c.jpg",
+    "index.html": "/michelleKodego/try_1/index.html",
+    "main.5d02fcae.js.map": "/michelleKodego/try_1/static/js/main.5d02fcae.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d02fcae.js"
+  ]
+}
